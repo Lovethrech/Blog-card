@@ -28,7 +28,10 @@
     padding:3vh 2vw;
     margin:40px;
     border-radius:20px;
-    box-shadow: 10px -10px 14px hsla(0, 0%, 0%, 0.588);
+    box-shadow: 10px 10px 0px hsl(0,0%,0%);
+}
+.card-container:hover{
+    box-shadow: 10px 10px 0px #000000;
 }
 .card-image-container{
     text-align: center;
