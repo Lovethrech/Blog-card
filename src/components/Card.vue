@@ -31,7 +31,7 @@
     box-shadow: 10px 10px 0px hsl(0,0%,0%);
 }
 .card-container:hover{
-    box-shadow: 30px 30px 0px #000000;
+    box-shadow: 30px 30px 0px hsl(0, 0%, 13%);
 }
 .card-image-container{
     text-align: center;
